@@ -1,0 +1,28 @@
+h1 {
+    font-size: 90px;
+    color: #571414f5;
+    font-family: 'Courier New';
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+h2 {
+    font-size: 50px;
+    color: white;
+    font-family: 'Courier New';
+    text-align: center;
+    background-color: black;
+}
+
+img {
+    box-shadow: 0 5px 7px black;
+    float: right;
+    margin-right: 1em;
+}
+
+header {
+    font-size: 25px;
+    box-shadow: 0 1px 1px black;
+    padding: 8px 4px 8px 4px;
+}
