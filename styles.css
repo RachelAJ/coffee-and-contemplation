@@ -42,7 +42,7 @@ header::after {
 .logo {
     float: left;
     padding: 10px 0;
-    border-radius: 100%;
+    border-radius: 75%;
 }
 
 nav {
